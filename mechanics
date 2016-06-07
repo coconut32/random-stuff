@@ -1,0 +1,35 @@
+Classical mechanics John. Taylor
+//ch1
+reference frames
+mass, force exerted by particle A to particle B where A is not B(by third law,this should be the definition)
+//(i think)a force is a functor:F:A->B
+point mass = particle
+inertial frames
+net force (with respect to system of particles)
+external force (with respect to system of particles)
+momentum (with respect to system of particles)
+
+//ch3
+center of mass (wrt. sop.)
+angular momentum (wrt. sop.)
+torque exerted by particle A to particle B where A is not B(definition of torque inherits that of force)
+
+//ch4
+kinetic energy (wrt. sop.)
+work (wrt. a force(as a functor) and the movement of the codomain of the force)
+conservative force
+potential energy (wrt. sop.)
+mechanical energy (wrt. sop.)
+time-dependent potential energy
+
+//ch7
+Lagrangian
+generalized force, generalized momentum, generalized coordinates
+natural coordinates
+degrees of freedom, constrained system
+(non)holonomic
+constraint forces, total potential energy of non-constraint forces
+ignorable coordinates
+Lagrange multiplier
+
+这玩意儿是怎么被发明的呢？大概是strong analogy with Fermat principle，然而这个analogy也绝不显然。。
