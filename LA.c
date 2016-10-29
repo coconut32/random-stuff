@@ -15,3 +15,7 @@ Pf2.do T3 to rhs.
 1.7 (generalization of row operation)
 Pf1.use T4.
 Pf2.use T5 combined with T6.
+
+2.2
+Pf1.immediate by contradiction.
+Pf2.compute to construct an explicit linear relationship.
