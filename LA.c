@@ -22,6 +22,6 @@ P1.immediate by contradiction.
 P2.compute to construct an explicit linear relationship.
 
 2.3 (Cauchy-Binet)
-This result does not admit a simpler proof so itself will be added to the list of tools.
+This result does not admit a simpler proof (and since the proof uses linearity heavily, which is the core as well as basic stuff of LA) so itself will be added to the list of tools.
 We prove this for the smallest non-trivial case.
 the proof is at Cauchy-Binet.jpg.
