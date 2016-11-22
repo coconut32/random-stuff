@@ -9,6 +9,7 @@ T5.work on the level of block
 T6.decomposition into products (maybe by guesswork)
 T7.Cauchy-Binet
 T8.uniqueness, independence etc. argument
+T9.modify some elements of a given matrix equation (eg.set to 0 or 1) to extract information from it
 
 1.1 (Cramer rule) 
 P1.do T1. the base step is trivial, for the induction step, use T2.
@@ -29,3 +30,4 @@ the proof is at Cauchy-Binet.jpg.
 
 2.5.1
 P1.use generalized laplace expansion (2.4.1) (k-minor) to get an expression (i). apply T7 to the standard equation A*adj(A)=det(A)*I (first k row of A and first k column of adj(A)) to get an expression (ii). conclude by (T8) wrt. (i)&(ii).
+P2.use T5 combined with T9.
