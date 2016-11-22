@@ -29,5 +29,5 @@ We prove this for the smallest non-trivial case.
 the proof is at Cauchy-Binet.jpg.
 
 2.5.1
-P1.use generalized laplace expansion (2.4.1) (k-minor) to get an expression (i). apply T7 to the standard equation A*adj(A)=det(A)*I (first k row of A and first k column of adj(A)) to get an expression (ii). conclude by (T8) wrt. (i)&(ii).
+P1.use generalized laplace expansion (2.4.1) (k-minor) to get an expression (i). apply T7 to the standard equation A*adj(A)=det(A)*I (first k row of A and first k column of adj(A)) to get an expression (ii). conclude by T8 wrt. (i)&(ii).
 P2.use T5 combined with T9.
