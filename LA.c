@@ -9,8 +9,8 @@ T5.work on the level of block
 T6.decomposition into products (maybe by guesswork)
 T7.Cauchy-Binet
 T8.uniqueness, independence etc. argument
-T9.modify some elements of a given matrix equation (eg.set to 0 or 1) to extract information from it
-
+T9.evaluation
+ 
 1.1 (Cramer rule) 
 P1.do T1. the base step is trivial, for the induction step, use T2.
 P2.do T3 to rhs.
