@@ -13,6 +13,7 @@ T5.work on the level of block
 T6.decomposition into products (maybe by guesswork)
 T7.Cauchy-Binet
 T10.dimension counting
+T11. work at the level of linear maps instead of matrices
  
 1.1 (Cramer rule) 
 P1.do T1. the base step is trivial, for the induction step, use T2.
@@ -41,3 +42,7 @@ P2. T6
 
 6.1 (dimension counting of im intersection with kernel)
 P. T10
+
+6.3.2 (rank standard form)
+P1. T4
+P2. T11
