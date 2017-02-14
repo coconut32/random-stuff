@@ -14,6 +14,7 @@ T6.decomposition into products (maybe by guesswork)
 T7.Cauchy-Binet
 T10.dimension counting
 T11. work at the level of linear maps instead of matrices
+T12. rank standard form
  
 1.1 (Cramer rule) 
 P1.do T1. the base step is trivial, for the induction step, use T2.
@@ -46,3 +47,6 @@ P. T10
 6.3.2 (rank standard form)
 P1. T4
 P2. T11
+
+6.3.3 (solvability of C=AXB)
+P. apply T12 to A and B.
