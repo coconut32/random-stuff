@@ -15,6 +15,7 @@ T7.Cauchy-Binet
 T10.dimension counting
 T11. work at the level of linear maps instead of matrices
 T12. rank standard form
+T13. Jordan techniques
  
 1.1 (Cramer rule) 
 P1.do T1. the base step is trivial, for the induction step, use T2.
@@ -50,3 +51,6 @@ P2. T11
 
 6.3.3 (solvability of C=AXB)
 P. apply T12 to A and B.
+
+7.3 (Aupetit)
+P1.transform the problem into another: existence of commutators satisfying some relationship. split the problem into two parts, analysis of rank of commutator operator and find enough independent vectors. the second one is easy. To carry out an analysis of rank of the operator, use T13.
