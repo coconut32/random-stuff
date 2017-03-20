@@ -41,7 +41,6 @@ P2.use T5 combined with T9.
 3.2(Haynsworth quotient)
 P1. T3 brute force (by definition formula of Schur complement and formula for inverse matrix)
 P2. T6
-
 6.1 (dimension counting of im intersection with kernel)
 P. T10
 
@@ -53,4 +52,4 @@ P2. T11
 P. apply T12 to A and B.
 
 7.3 (Aupetit)
-P1.transform the problem into another: existence of commutators satisfying some relationship. split the problem into two parts, analysis of rank of commutator operator and find enough independent vectors. the second one is easy. To carry out an analysis of rank of the operator, use T13 combined with T10(firstly the dim of Ker is invariant under conjugate action since they are isomorphic, and secondly so the rank is invariant).
+P1.transform the problem into another: existence of commutators satisfying some relationship. split the problem into two parts, analysis of rank of commutator operator and find enough independent vectors. the second one is easy. To carry out an analysis of rank of the operator, use T13).
