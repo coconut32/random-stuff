@@ -53,4 +53,4 @@ P2. T11
 P. apply T12 to A and B.
 
 7.3 (Aupetit)
-P1.transform the problem into another: existence of commutators satisfying some relationship. split the problem into two parts, analysis of rank of commutator operator and find enough independent vectors. the second one is easy. To carry out an analysis of rank of the operator, use T13.
+P1.transform the problem into another: existence of commutators satisfying some relationship. split the problem into two parts, analysis of rank of commutator operator and find enough independent vectors. the second one is easy. To carry out an analysis of rank of the operator, use T13 combined with T10(firstly the dim of Ker is invariant under conjugate action since they are isomorphic, and secondly so the rank is invariant).
