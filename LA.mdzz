@@ -56,3 +56,4 @@ P. apply T12 to A and B.
 
 7.3 (Aupetit)
 P1.transform the problem into another: existence of commutators satisfying some relationship. split the problem into two parts, analysis of rank of commutator operator and find enough independent vectors. the second one is easy. To carry out an analysis of rank of the operator, use T13).
+P2.this proof is better since it is true for infinite dimensional. use T14 (not important here), T15 (important because here factorize into eigenvalues), T16(vital)
