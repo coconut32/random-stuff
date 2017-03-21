@@ -7,6 +7,8 @@ T2.pretend variable as constant
 T3.substitute and compute
 T8.uniqueness, independence etc. argument
 T9.evaluation
+T15.factorize the polynomial
+T16.use Liouville to prove constant
 (specific)
 T4.view the left action by a matrix as row operation
 T5.work on the level of block
@@ -16,6 +18,7 @@ T10.dimension counting
 T11. work at the level of linear maps instead of matrices
 T12. rank standard form
 T13. Jordan techniques
+T14.localize to an invariant subspace
  
 1.1 (Cramer rule) 
 P1.do T1. the base step is trivial, for the induction step, use T2.
