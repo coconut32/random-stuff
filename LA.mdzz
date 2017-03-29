@@ -8,9 +8,11 @@ T3.substitute and compute
 T8.uniqueness, independence etc. argument
 T9.evaluation
 T15.factorize the polynomial
-T16.use Liouville to prove constant
 T17.Recast messy lines
 T18.Construct morphisms
+(complex analytic)
+T16.use Liouville to prove constant
+T20.vanishes on R implies vanishes on C
 (specific)
 T4.view the left action by a matrix as row operation
 T5.work on the level of block
@@ -63,3 +65,7 @@ P2.this proof is better since it is true for infinite dimensional. use T14 (not 
 
 8.3 (Flanders)
 P2.use T12,T5,T17 to derive relationships. to enforce T10, use T18 and T19.
+
+12.1
+P1.carry out a laborious detailed analysis
+P2.use T20
