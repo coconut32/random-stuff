@@ -72,3 +72,7 @@ P2.use T12,T5,T17 to derive relationships. to enforce T10, use T18 and T19.
 12.1
 P1.carry out a laborious detailed analysis
 P2.use T20
+
+15.2
+P1.use T22 followed by an averaging process.
+P2.use T22 followed by T23
