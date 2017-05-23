@@ -85,3 +85,7 @@ P2.use T22 followed by T23
 16.2.2
 P1. reduce U1 and U2. equivalent to prove sqrt(AA*)=Asqrt(A*A)A^-1,note that AA*=AA*AA^-1, use T8
 P2. directly write down the decompositions using svd decomposition, use T8
+
+23.1.2 (the backward direction)
+P1. use relationship between commute matrix and their eigenvectors
+P2. use the characterization of normality to construct
